@@ -2,8 +2,8 @@
 
 ## I'm a Computer Science Student, Aspiring Software Engineer. Cyber Security, AI and Cloud Computing Aficionado. 
 
-- 🔭 My Personal Website is: [Visit Here][website]!
-- ⚡ Recent Project - Responsive Supermarket Website: [Visit Here][project]!
+- 🔭 Check out my personal website -> [Here][website]!
+- ⚡ Recent Project - Responsive Supermarket Website -> [Visit Here][project]!
 - 🌱 I’m currently learning React + Gatsby + GraphQL / The more I see the less I know 🤣
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2021 Goals: Be part of an internship programm. 
