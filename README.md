@@ -1,6 +1,6 @@
 👋 Hi! Sebastian here! 
 
-## I'm a Computer Science Student, Aspiring Software Engineer. Cyber Security, AI and Cloud Computing Aficionado. 
+## I'm a Computer Science Student, Aspiring Software Engineer. AI and Cloud Computing Aficionado. 
 
 - 🔭 Check out my personal website -> [Here][website]!
 - ⚡ Recent Project - Responsive Supermarket Website -> [Visit Here][project]!
