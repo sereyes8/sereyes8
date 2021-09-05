@@ -4,7 +4,7 @@
 
 - 🔭 Check out my personal website -> [Here][website]!
 - ⚡ Recent Project - Responsive Supermarket Website -> [Visit Here][project]!
-- 🌱 I’m currently learning React + Gatsby + GraphQL / The more I see the less I know 🤣
+- 🌱 I’m currently learning React + GraphQL 
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2021 Goals: Be part of an internship programm. 
 - ⛅ Fun fact: Sometimes I code in my dreams.
