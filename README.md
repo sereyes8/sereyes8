@@ -6,7 +6,6 @@
 - ⚡ Recent Project - Responsive Supermarket Website -> [Visit Here][project]!
 - 🌱 I’m currently learning React + GraphQL 
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2021 Goals: Be part of an internship programm. 
 - ⛅ Fun fact: Sometimes I code in my dreams.
 
 
